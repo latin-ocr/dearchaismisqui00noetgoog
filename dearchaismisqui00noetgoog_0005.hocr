@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dearchaismisqui00noetgoog_0005.png"; bbox 0 0 975 1396; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 164 8 388 80">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 164 8 388 80">
+     <span class='ocr_line' id='line_1_1' title="bbox 164 8 388 80; baseline 0 1316"><span class='ocrx_word' id='word_1_1' title='bbox 164 8 388 80; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 455 567 564 582">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 455 567 564 582">
+     <span class='ocr_line' id='line_1_2' title="bbox 455 567 564 582; baseline -0.018 0"><span class='ocrx_word' id='word_1_2' title='bbox 455 567 564 582; x_wconf 40' lang='lat' dir='ltr'><strong>&amp;numum</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 388 648 649 722">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 388 648 649 722">
+     <span class='ocr_line' id='line_1_3' title="bbox 388 648 649 670; baseline 0 -5"><span class='ocrx_word' id='word_1_3' title='bbox 388 648 413 665; x_wconf 72' lang='lat' dir='ltr'><strong>De</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 424 648 538 665; x_wconf 63' lang='lat' dir='ltr'><strong>dissolutione</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 548 648 649 670; x_wconf 57' lang='lat' dir='ltr'><strong>judicarunt:</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 441 680 545 695; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 441 680 458 695; x_wconf 68' lang='grc' dir='ltr'><strong>Ε,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 473 680 545 695; x_wconf 75' lang='lat' dir='ltr'>Norden</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 453 706 550 722; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 453 707 468 722; x_wconf 73' lang='lat' dir='ltr'><strong>d.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 481 706 550 722; x_wconf 68' lang='lat' dir='ltr'>Vahlen.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 266 1261 727 1281">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 266 1261 727 1281">
+     <span class='ocr_line' id='line_1_6' title="bbox 266 1261 727 1281; baseline -0.002 -5"><span class='ocrx_word' id='word_1_10' title='bbox 266 1262 310 1281; x_wconf 75' lang='lat' dir='ltr'><strong>Typin</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 321 1262 392 1280; x_wconf 61' lang='lat' dir='ltr'><strong>apres-it</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 400 1262 420 1277; x_wconf 79' lang='grc' dir='ltr'><strong>Μ.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 429 1262 500 1280; x_wconf 64' lang='lat' dir='ltr'><strong>Dru-nn,</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 509 1262 575 1279; x_wconf 41' lang='lat' dir='ltr'><strong>Bemlini*</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 584 1261 695 1276; x_wconf 64' lang='lat' dir='ltr'><strong>mmm-utrum</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 704 1262 727 1275; x_wconf 66' lang='lat'><strong>4⁶.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
